@@ -1,5 +1,6 @@
 # gulp-and-sass
 brew install node
+
 npm install --global gulp-cli
 
 # to start creating new package.json
